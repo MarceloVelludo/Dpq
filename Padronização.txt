@@ -1,0 +1,16 @@
+code - Pasta onde os codigos estão.
+Experimentos - Pasta com Dados dos experimentos
+imgs - Pasta contendo as imagens utilizadas no corpo dos nootebooks python.
+
+Padronização de Nomes do Projeto:
+
+Para a criação das pastas:
+A pasta de experimentos foi estruturada da seguinte forma:
+experimentos/{nome do experimento}/{graficos, tabelas, model}
+
+onde:
+- nome do experimento: É o atributo name da classe eq_cl presente em eq_classica.py. Ele é construido utilizando os 
+parametros de entrada da dinamica de pontos quânticos em questão, sendo [{Y -> inicial}:{Y -> final}: {Passo utilizado em Y}], 
+com Y = {j1, j2, bz1, bz2, j12, t}.
+- graficos: É a pasta destinada à guardar os gráficos produzidos durante o experimento.
+- model: Apresenta diversos arquivos relacionados à cosntrução do modelo. 

@@ -1,0 +1,64 @@
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Teste
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.401531 
+Média quadrada do erro: 0.829835 
+R2: 0.902633
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Teste
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.401531 
+Média quadrada do erro: 0.829835 
+R2: 0.902633
+relative_error_1: inf 
+relative_error_2: nan
+====================
+Treino
+[0:1:0.5][0:1:0.5][0:1:0.5][0:1:0.5][0:10:0.1][1:20:1]
+Média do erro absoluto: 0.000000 
+Média quadrada do erro: 0.000000 
+R2: 1.000000
+relative_error_1: inf 
+relative_error_2: nan
