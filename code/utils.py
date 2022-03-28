@@ -18,7 +18,8 @@ def make_dir(name):
         try:
             os.mkdir(path)
             print("Directory '% s' created" % directory)
-        except:
-            print("Não foi possível criar o diretório")
+        except OSError as e:
+            print("Can't create {dir}: {err}".format(dir=path, err=e))
+
 
     return path
