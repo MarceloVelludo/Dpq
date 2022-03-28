@@ -51,14 +51,14 @@ class Md:
             
         return
     def set_textimg2_pdf(self, nome , descricao = '', path =''):
-    self.pdf.write(5,nome)
-    self.pdf.write(5,descricao)
-    if path != '':
-        self.pdf.cell(5,5, '',0,1, 'L')
-        self.pdf.image(path,x=5,w=120,h=160)
-        self.pdf.cell(5,5, '',0,1, 'L')                               
+        self.pdf.write(5,nome)
+        self.pdf.write(5,descricao)
+        if path != '':
+            self.pdf.cell(5,5, '',0,1, 'L')
+            self.pdf.image(path,x=5,w=120,h=160)
+            self.pdf.cell(5,5, '',0,1, 'L')                               
 
-    return
+        return
     
     ### modelo  
     def set_model(self):
