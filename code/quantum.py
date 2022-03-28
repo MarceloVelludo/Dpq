@@ -23,7 +23,7 @@ def init_pdf(pdf, title):
     pdf.ln(5)
     pdf.set_font("Times", 'B', 13)
     #Title
-    self.pdf.write(5,title)
+    pdf.write(5,title)
     #pdf.cell(60,140, title,0,1, 'L')
     #Line break
     pdf.ln(1)

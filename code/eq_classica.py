@@ -16,7 +16,7 @@ def init_pdf(pdf, title):
         #Font
         pdf.set_font("Times", 'B', 15)
         #Title
-        self.pdf.write(5,title)
+        pdf.write(5,title)
         #pdf.cell(60,140, title,1,0, 'L')
         #Line break
         pdf.ln(1)
@@ -26,7 +26,7 @@ def init_pdf(pdf, title):
         #Font
         pdf.set_font("Times", 'B', 15)
         #Title
-        self.pdf.write(5,title)
+        pdf.write(5,title)
         #pdf.cell(60,140, title,1,0, 'L')
         #Line break
         pdf.ln(1)
