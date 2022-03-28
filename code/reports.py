@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 #Gera relatorio das observaveis em relação ao tempo.
 def make_report_ox(self):
     #Para os pontos minimos

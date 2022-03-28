@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from eq_classica import Eq_cl
 from quantum import Qt
 from model import Md

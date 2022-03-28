@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 #Métodos para checar o estágio em que está o sistema, para não repetir execuções e trechos já rodados anteriormente.
 def check_dataframe(name, comp_nome=''):

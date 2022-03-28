@@ -1,4 +1,5 @@
-#Para construir a tabela(dataframe) que será usada para treinar o modelo vamos usar o Pandas.
+# -*- coding: utf-8 -*-
+#Para construir a tabela(dataframe) que sera usada para treinar o modelo vamos usar o Pandas.
 import numpy as np                                     
 import pandas as pd
 import matplotlib
